@@ -24,12 +24,6 @@ By exploring this data thoroughly, the project highlights important trends, pinp
 - **Growth Trend:**  
   Sales in 2021 were **4 times higher** than in 2020, indicating significant recovery and growth.
 
-- **Quarterly Trends:**  
-  A major boost in sales occurred from **Q4 2020 to Q1 2021**, mainly due to a **189% surge** in outlet sales and strong contributions from key retailers like **West Gear** and **Kohl’s**.
-
-- **Dip in Late 2021:**  
-  Despite strong growth, **Q4 2021** saw a sales decline, driven by lower online sales and underperformance in product lines such as **Men’s Street Footwear** and **Athletic Wear**.
-
 - **Top Retailer:**  
   **West Gear** emerged as the leading retail partner in terms of sales, profit, and units sold.
 
